@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-for-deginners/static/css/main.e6c13ad2.css",
-    "main.js": "/react-for-deginners/static/js/main.075c0314.js",
+    "main.js": "/react-for-deginners/static/js/main.b7b2c34f.js",
     "static/js/787.de47889a.chunk.js": "/react-for-deginners/static/js/787.de47889a.chunk.js",
     "index.html": "/react-for-deginners/index.html",
     "main.e6c13ad2.css.map": "/react-for-deginners/static/css/main.e6c13ad2.css.map",
-    "main.075c0314.js.map": "/react-for-deginners/static/js/main.075c0314.js.map",
+    "main.b7b2c34f.js.map": "/react-for-deginners/static/js/main.b7b2c34f.js.map",
     "787.de47889a.chunk.js.map": "/react-for-deginners/static/js/787.de47889a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.075c0314.js"
+    "static/js/main.b7b2c34f.js"
   ]
 }
